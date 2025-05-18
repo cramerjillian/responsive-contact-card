@@ -45,7 +45,7 @@ In `style.css`, do the following:
 
 
 **BONUS**
-- [ ] Make your contact card centered vertically, as well as horizontally.
+- [x] Make your contact card centered vertically, as well as horizontally.
 
 ### Submitting Your Work
 
